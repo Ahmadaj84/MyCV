@@ -5,23 +5,55 @@ body {
 
 :root {
   /* fonts */
+  --font-arial: Arial;
   --font-poppins: Poppins;
 
   /* font sizes */
-  --font-size-5xl: 24px;
+  --font-size-13xl-4: 32.4px;
   --font-size-lgi: 19px;
+  --font-size-14xl-8: 33.8px;
+  --font-size-xl: 20px;
+  --font-size-3xl-3: 22.3px;
   --font-size-lg: 18px;
+  --font-size-2xl-1: 21.1px;
+  --font-size-mid: 17px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-45xl: 64px;
+  --font-size-19xl: 38px;
+  --font-size-32xl: 51px;
 
   /* Colors */
   --color-1: #1f1f1f;
+  --color-dimgray: #696969;
+  --color-white: #fff;
   --color-2: #f8f7f9;
+  --color-whitesmoke-100: rgba(248, 247, 249, 0.5);
+  --color-gainsboro-100: #dedee0;
+  --color-gainsboro-200: rgba(222, 222, 224, 0.09);
 
   /* Gaps */
+  --gap-6xs-8: 6.8px;
   --gap-xl: 20px;
+  --gap-25xl: 44px;
+  --gap-13xl: 32px;
   --gap-base: 16px;
 
   /* Paddings */
   --padding-13xl: 32px;
+  --padding-45xl: 64px;
+  --padding-xl: 20px;
+  --padding-4xl: 23px;
+  --padding-6xs-8: 6.8px;
+  --padding-4xs: 9px;
+  --padding-8xs-5: 4.5px;
+  --padding-9xs: 4px;
   --padding-3xs: 10px;
   --padding-base: 16px;
+  --padding-11xl: 30px;
+  --padding-4xs-5: 8.5px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-146xl: 165px;
 }
