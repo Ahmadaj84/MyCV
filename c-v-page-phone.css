@@ -1,9 +1,9 @@
-.logo2 {
+.logo1 {
   position: relative;
   display: inline-block;
   min-width: 59px;
 }
-.akar-iconsgithub-outline-fill2 {
+.akar-iconsgithub-outline-fill1 {
   height: 24px;
   width: 24px;
   position: relative;
@@ -11,7 +11,7 @@
   flex-shrink: 0;
   min-height: 24px;
 }
-.vector-icon2 {
+.vector-icon1 {
   height: 23px;
   width: 23px;
   position: relative;
@@ -25,19 +25,19 @@
   justify-content: space-between;
   gap: var(--gap-xl);
 }
-.frame-wrapper3,
-.logo-group {
+.frame-wrapper,
+.logo-parent {
   display: flex;
   align-items: flex-start;
 }
-.frame-wrapper3 {
+.frame-wrapper {
   width: 70px;
   flex-direction: column;
   justify-content: flex-start;
   padding: 15px 0 0;
   box-sizing: border-box;
 }
-.logo-group {
+.logo-parent {
   width: 329px;
   flex-direction: row;
   justify-content: space-between;
@@ -69,7 +69,7 @@
   display: inline-block;
   max-width: 100%;
 }
-.frame-parent7,
+.frame-container,
 .user-picture1 {
   display: flex;
   align-items: flex-start;
@@ -83,7 +83,7 @@
   max-width: 100%;
   font-size: var(--font-size-45xl);
 }
-.frame-parent7 {
+.frame-container {
   width: 510px;
   flex-direction: column;
   max-width: 145%;
@@ -96,7 +96,7 @@
   white-space: pre-wrap;
 }
 .bio1,
-.frame-parent6,
+.frame-group,
 .my-experience-in-retail-corp-container {
   display: flex;
   align-items: flex-start;
@@ -112,12 +112,12 @@
   color: var(--color-whitesmoke-100);
 }
 .bio1,
-.frame-parent6 {
+.frame-group {
   flex-direction: column;
 }
-.frame-parent6 {
+.frame-group {
   width: 351px;
-  padding: 0 0 var(--padding-4xl) 0;
+  padding: 0 0 23px;
   box-sizing: border-box;
   gap: var(--gap-base);
   max-width: 117%;
@@ -194,7 +194,7 @@
   justify-content: flex-start;
   position: relative;
 }
-.frame-parent8 {
+.frame-div {
   flex-direction: column;
   padding: 0 var(--padding-xl) 0 0;
   gap: 17px;
@@ -202,7 +202,7 @@
 .bio-parent,
 .cv-page-phone,
 .cv-page-phone-inner,
-.frame-parent8 {
+.frame-div {
   display: flex;
   align-items: flex-start;
   justify-content: flex-start;

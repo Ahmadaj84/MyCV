@@ -1,0 +1,919 @@
+.logo2 {
+  position: relative;
+  display: inline-block;
+  min-width: 59px;
+  white-space: nowrap;
+}
+.logo-container {
+  width: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-13xl) 0 var(--padding-13xl) var(--padding-45xl);
+  box-sizing: border-box;
+}
+.contacts1,
+.education,
+.experience {
+  flex: 1;
+  position: relative;
+}
+.organization-name {
+  margin: 0;
+  width: 540px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 48px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-2);
+  font-family: var(--font-poppins);
+}
+.frame-child,
+.line-wrapper {
+  width: 1px;
+  box-sizing: border-box;
+}
+.frame-child {
+  height: 25px;
+  position: relative;
+  border-right: 1px solid var(--color-2);
+}
+.line-wrapper {
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 var(--padding-3xs) var(--padding-3xs);
+}
+.vector-icon2 {
+  align-self: stretch;
+  width: 15px;
+  position: relative;
+  max-height: 100%;
+  min-height: 24px;
+}
+.akar-iconsgithub-outline-fill2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 24px;
+}
+.experience-title-icon {
+  height: 23px;
+  width: 23px;
+  position: relative;
+}
+.vector-parent {
+  width: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl) 0 var(--padding-xl) 0;
+  box-sizing: border-box;
+  gap: 51px;
+}
+.frame-parent1 {
+  align-self: stretch;
+  width: 1px;
+  flex-wrap: wrap;
+  gap: 44px;
+}
+.frame-parent1,
+.heder,
+.heder-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.heder-inner {
+  align-self: stretch;
+  flex-wrap: wrap;
+}
+.heder {
+  height: 152px;
+  width: 1251px;
+  padding: var(--padding-xl) 0 var(--padding-xl) 0;
+  box-sizing: border-box;
+  gap: 424px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-2);
+  font-family: var(--font-poppins);
+}
+.experience3 {
+  color: var(--color-white);
+}
+.experience2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 39px;
+}
+.body {
+  width: 121.7px;
+  position: relative;
+  font-size: var(--font-size-13xl-4);
+  display: inline-block;
+}
+.expbody {
+  width: 216px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.organization1 {
+  color: var(--color-white);
+}
+.organization {
+  width: 166px;
+  position: relative;
+  font-size: var(--font-size-3xl-3);
+  display: inline-block;
+}
+.h3 {
+  width: 56.9px;
+}
+.h3,
+.h31,
+.ministry-of-health {
+  position: relative;
+  display: inline-block;
+}
+.ministry-of-health {
+  height: 33px;
+  color: var(--color-white);
+  flex-shrink: 0;
+}
+.h31 {
+  min-width: 56.9px;
+}
+.organization2 {
+  position: relative;
+  font-size: var(--font-size-3xl-3);
+}
+.li {
+  min-width: 36.4px;
+}
+.li,
+.li1,
+.programing-unit-supervisor {
+  position: relative;
+  display: inline-block;
+}
+.programing-unit-supervisor {
+  height: 33px;
+  color: var(--color-white);
+}
+.li1 {
+  min-width: 40.9px;
+}
+.makkah1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-5) 13px 1.2000000000000028px 0;
+  box-sizing: border-box;
+  gap: 6.822436809539795px;
+  max-width: 100%;
+}
+.directorate-of-health,
+.p,
+.p1 {
+  position: relative;
+  display: inline-block;
+}
+.p {
+  width: 53px;
+  flex-shrink: 0;
+}
+.directorate-of-health,
+.p1 {
+  margin-left: -11.37px;
+}
+.directorate-of-health {
+  width: 549px;
+  color: var(--color-white);
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.p1 {
+  min-width: 43px;
+}
+.frame,
+.makkah,
+.pjeddah {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pjeddah {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xl) 0 0;
+  min-height: 72px;
+}
+.frame,
+.makkah {
+  flex-direction: column;
+}
+.frame {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 0 0 36.40000000000009px;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.makkah {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 1.4210854715202004e-14px;
+}
+.li2 {
+  min-width: 36.4px;
+}
+.li2,
+.li3,
+.systems-analyst {
+  position: relative;
+  display: inline-block;
+}
+.systems-analyst {
+  height: 33px;
+  color: var(--color-white);
+}
+.li3 {
+  min-width: 40.9px;
+}
+.jeddah {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-5) 4.499999999999773px 1.2000000000000028px 0;
+  gap: 6.822436809539795px;
+}
+.directorate-of-health1,
+.p2,
+.p3 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.p2 {
+  width: 53px;
+}
+.directorate-of-health1,
+.p3 {
+  margin-left: -13.37px;
+}
+.directorate-of-health1 {
+  width: 549px;
+  color: var(--color-white);
+  max-width: 100%;
+  z-index: 1;
+}
+.p3 {
+  width: 52px;
+}
+.jeddahmohexp,
+.job-description,
+.pjeddah1 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pjeddah1 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0.09999999999999432px;
+  min-height: 72px;
+}
+.jeddahmohexp,
+.job-description {
+  flex-direction: column;
+}
+.job-description {
+  align-self: stretch;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 0 0 36.40000000000009px;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-top: -1px;
+}
+.jeddahmohexp {
+  width: 577.6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  z-index: 2;
+}
+.li4 {
+  width: 39px;
+  flex-shrink: 0;
+}
+.li4,
+.li5,
+.supervisor-of-the {
+  position: relative;
+  display: inline-block;
+}
+.supervisor-of-the {
+  height: 33px;
+  flex: 1;
+  color: var(--color-white);
+  min-width: 259px;
+  max-width: 100%;
+}
+.li5 {
+  min-width: 40.9px;
+}
+.jeddah1 {
+  width: 512.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-5) 20.199999999999815px 1.1999999999999886px 0;
+  box-sizing: border-box;
+  gap: 6.822436809539795px;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.king-abdulaziz-hospital,
+.p4,
+.p5 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.p4 {
+  width: 53px;
+}
+.king-abdulaziz-hospital,
+.p5 {
+  margin-left: -13.37px;
+}
+.king-abdulaziz-hospital {
+  width: 549px;
+  color: var(--color-white);
+  max-width: 100%;
+  z-index: 1;
+}
+.p5 {
+  width: 52px;
+}
+.frame1,
+.hospitalzahir,
+.moh,
+.pjeddah2 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pjeddah2 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  min-height: 72px;
+}
+.frame1,
+.hospitalzahir,
+.moh {
+  flex-direction: column;
+}
+.frame1 {
+  align-self: stretch;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 0 0 36.40000000000009px;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-top: -1px;
+}
+.hospitalzahir,
+.moh {
+  width: 577.6px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.moh {
+  width: 614.3px;
+  padding: 1.1999999999999886px 0 2.900000000000034px;
+  font-size: var(--font-size-2xl-1);
+}
+.organization4 {
+  color: var(--color-white);
+}
+.h32,
+.organization3 {
+  position: relative;
+  display: inline-block;
+}
+.organization3 {
+  width: 166px;
+  font-size: var(--font-size-3xl-3);
+}
+.h32 {
+  width: 56.9px;
+}
+.national-commercial-bank {
+  width: 347px;
+  height: 33px;
+  color: var(--color-white);
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.h33,
+.national-commercial-bank,
+.organization5 {
+  position: relative;
+  display: inline-block;
+}
+.h33 {
+  min-width: 56.9px;
+}
+.organization5 {
+  width: 166px;
+  font-size: var(--font-size-3xl-3);
+}
+.li6 {
+  min-width: 36.4px;
+}
+.li6,
+.li7,
+.officer-atm {
+  position: relative;
+  display: inline-block;
+}
+.officer-atm {
+  height: 33px;
+  flex: 1;
+  color: var(--color-white);
+  min-width: 194px;
+}
+.li7 {
+  min-width: 40.9px;
+}
+.atm-site-selection,
+.jeddah2 {
+  display: flex;
+  justify-content: flex-start;
+}
+.jeddah2 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 4.600000000000023px 0 1.3999999999999773px;
+  gap: 6.822436809539795px;
+}
+.atm-site-selection {
+  width: 389px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  min-height: 127px;
+  max-width: 100%;
+}
+.p6 {
+  width: 53px;
+}
+.managing-sama-licenses,
+.p6,
+.p7 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.managing-sama-licenses {
+  width: 497px;
+  color: var(--color-white);
+  max-width: 100%;
+}
+.p7 {
+  width: 52px;
+}
+.jeddahmohexp1,
+.pjeddah3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pjeddah3 {
+  width: 549px;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0 52px 0 0;
+  gap: 0 9px;
+  min-height: 96px;
+  z-index: 1;
+  margin-left: -352px;
+}
+.jeddahmohexp1 {
+  align-items: center;
+  padding: 0;
+}
+.li8 {
+  min-width: 36.4px;
+}
+.li8,
+.li9,
+.supervisor-of-atm {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.supervisor-of-atm {
+  height: 33px;
+  flex: 1;
+  color: var(--color-white);
+  min-width: 204px;
+}
+.li9 {
+  min-width: 40.9px;
+}
+.jeddah3 {
+  width: 512.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.599999999999966px 108px 1.1000000000000227px 0;
+  box-sizing: border-box;
+  gap: 6.822436809539795px;
+  max-width: 100%;
+}
+.p8,
+.p9,
+.selecting-atm-location {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.p8 {
+  width: 53px;
+}
+.p9,
+.selecting-atm-location {
+  margin-left: -13.37px;
+}
+.selecting-atm-location {
+  width: 549px;
+  color: var(--color-white);
+  max-width: 100%;
+  z-index: 1;
+}
+.p9 {
+  width: 52px;
+}
+.frame2,
+.hospitalzahir1,
+.pjeddah4 {
+  align-self: stretch;
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pjeddah4 {
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  min-height: 99px;
+}
+.frame2,
+.hospitalzahir1 {
+  flex-direction: column;
+}
+.frame2 {
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 0 0 0 36.40000000000009px;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-top: -1px;
+}
+.hospitalzahir1 {
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+}
+.li10 {
+  width: 47px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.trade-center-processor {
+  position: relative;
+  color: var(--color-white);
+}
+.li11 {
+  width: 51px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.jeddah4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs-5) 245px 4.600000000000023px 0;
+  gap: 6.822436809539795px;
+}
+.p10 {
+  width: 49px;
+  position: relative;
+  display: inline-block;
+}
+.processing-letter-of {
+  align-self: stretch;
+  position: relative;
+  color: var(--color-white);
+  white-space: pre-wrap;
+}
+.p11 {
+  width: 48px;
+  position: relative;
+  display: inline-block;
+}
+.pjeddah5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 6px;
+  gap: 5px;
+}
+.frame3 {
+  width: 440px;
+  overflow: hidden;
+  z-index: 1;
+  margin-top: -1px;
+}
+.frame3,
+.hospitalzahir2,
+.ncb {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ncb {
+  width: 615px;
+  padding: 1.3000000000000114px 29.299999999999955px 40.89999999999998px 0;
+  box-sizing: border-box;
+  font-size: var(--font-size-2xl-1);
+}
+.experience4 {
+  align-self: stretch;
+  position: relative;
+}
+.body1 {
+  width: 136.4px;
+  position: relative;
+  font-size: var(--font-size-13xl-4);
+  display: inline-block;
+}
+.expendbody {
+  width: 252.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+}
+.cv-page-2,
+.experience1 {
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.experience1 {
+  width: 1191px;
+  flex-direction: column;
+  justify-content: center;
+  padding: 6.699999999999989px var(--padding-xl) 6.7000000000000455px;
+  gap: 10.23365592956543px;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-14xl-8);
+  color: var(--color-dimgray);
+  font-family: var(--font-arial);
+}
+.cv-page-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-1);
+  overflow: hidden;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0 189px 0 0;
+  min-height: 1418px;
+  letter-spacing: normal;
+  gap: -1251px;
+}
+@media screen and (max-width: 1200px) {
+  .heder {
+    gap: 424px 212px;
+  }
+  .cv-page-2 {
+    padding-right: 94px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .experience2 {
+    font-size: var(--font-size-8xl);
+  }
+  .body {
+    font-size: var(--font-size-7xl);
+  }
+  .experience4 {
+    font-size: var(--font-size-8xl);
+  }
+  .body1 {
+    font-size: var(--font-size-7xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .organization-name {
+    gap: 48px 24px;
+  }
+  .heder {
+    gap: 424px 106px;
+  }
+  .jeddah1 {
+    flex-wrap: wrap;
+  }
+  .jeddah3,
+  .pjeddah3 {
+    box-sizing: border-box;
+  }
+  .pjeddah3 {
+    padding-right: var(--padding-7xl);
+  }
+  .jeddah3 {
+    flex-wrap: wrap;
+    padding-right: 54px;
+  }
+  .jeddah4 {
+    flex-wrap: wrap;
+    padding-right: 122px;
+  }
+  .cv-page-2,
+  .jeddah4,
+  .ncb {
+    box-sizing: border-box;
+  }
+  .ncb {
+    padding-top: 6.699999999999989px;
+    padding-bottom: 27px;
+  }
+  .cv-page-2 {
+    padding-right: 47px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heder {
+    gap: 424px 53px;
+  }
+  .experience2 {
+    font-size: var(--font-size-xl);
+  }
+  .body {
+    font-size: var(--font-size-lgi);
+  }
+  .organization {
+    font-size: var(--font-size-lg);
+  }
+  .h3,
+  .h31,
+  .ministry-of-health {
+    font-size: var(--font-size-mid);
+  }
+  .organization2 {
+    font-size: var(--font-size-lg);
+  }
+  .li,
+  .li1,
+  .programing-unit-supervisor {
+    font-size: var(--font-size-mid);
+  }
+  .makkah1 {
+    flex-wrap: wrap;
+  }
+  .directorate-of-health,
+  .directorate-of-health1,
+  .king-abdulaziz-hospital,
+  .li2,
+  .li3,
+  .li4,
+  .li5,
+  .p,
+  .p1,
+  .p2,
+  .p3,
+  .p4,
+  .p5,
+  .supervisor-of-the,
+  .systems-analyst {
+    font-size: var(--font-size-mid);
+  }
+  .organization3 {
+    font-size: var(--font-size-lg);
+  }
+  .h32,
+  .h33,
+  .national-commercial-bank {
+    font-size: var(--font-size-mid);
+  }
+  .organization5 {
+    font-size: var(--font-size-lg);
+  }
+  .li6,
+  .li7,
+  .officer-atm {
+    font-size: var(--font-size-mid);
+  }
+  .jeddah2 {
+    flex-wrap: wrap;
+  }
+  .li8,
+  .li9,
+  .managing-sama-licenses,
+  .p6,
+  .p7,
+  .supervisor-of-atm {
+    font-size: var(--font-size-mid);
+  }
+  .jeddah3 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .li10,
+  .li11,
+  .p8,
+  .p9,
+  .selecting-atm-location,
+  .trade-center-processor {
+    font-size: var(--font-size-mid);
+  }
+  .jeddah4 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .p10,
+  .p11,
+  .processing-letter-of {
+    font-size: var(--font-size-mid);
+  }
+  .frame3 {
+    gap: 25px 50px;
+  }
+  .experience4 {
+    font-size: var(--font-size-xl);
+  }
+  .body1 {
+    font-size: var(--font-size-lgi);
+  }
+  .cv-page-2 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
