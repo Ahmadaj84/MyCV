@@ -184,9 +184,9 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-8xs-5) 13px 1.2000000000000028px 0;
+  padding: var(--padding-8xs-5) 13px var(--padding-11xs-2) 0;
   box-sizing: border-box;
-  gap: 6.822436809539795px;
+  gap: var(--gap-6xs-8);
   max-width: 100%;
 }
 .directorate-of-health,
@@ -201,7 +201,7 @@
 }
 .directorate-of-health,
 .p1 {
-  margin-left: -11.37px;
+  margin-left: -11.4px;
 }
 .directorate-of-health {
   width: 549px;
@@ -217,7 +217,6 @@
 .pjeddah {
   align-self: stretch;
   display: flex;
-  box-sizing: border-box;
   max-width: 100%;
 }
 .pjeddah {
@@ -226,6 +225,7 @@
   align-items: flex-start;
   justify-content: flex-start;
   padding: 0 var(--padding-7xl) 0 0;
+  box-sizing: border-box;
   min-height: 72px;
 }
 .frame,
@@ -236,14 +236,14 @@
   overflow: hidden;
   align-items: flex-end;
   justify-content: center;
-  padding: 0 0 0 36.40000000000009px;
+  padding: 0 0 0 var(--padding-17xl-4);
+  box-sizing: border-box;
   flex-shrink: 0;
   z-index: 1;
 }
 .makkah {
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 0 1.4210854715202004e-14px;
 }
 .li2 {
   min-width: 36.4px;
@@ -266,8 +266,8 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-8xs-5) 4.499999999999773px 1.2000000000000028px 0;
-  gap: 6.822436809539795px;
+  padding: var(--padding-8xs-5) var(--padding-8xs-5) var(--padding-11xs-2) 0;
+  gap: var(--gap-6xs-8);
 }
 .directorate-of-health1,
 .p2,
@@ -281,7 +281,7 @@
 }
 .directorate-of-health1,
 .p3 {
-  margin-left: -13.37px;
+  margin-left: -13.4px;
 }
 .directorate-of-health1 {
   width: 549px;
@@ -305,7 +305,7 @@
   flex-wrap: wrap;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 0 0 0.09999999999999432px;
+  padding: 0 0 0.1px;
   min-height: 72px;
 }
 .jeddahmohexp,
@@ -317,7 +317,7 @@
   overflow: hidden;
   align-items: flex-end;
   justify-content: center;
-  padding: 0 0 0 36.40000000000009px;
+  padding: 0 0 0 var(--padding-17xl-4);
   flex-shrink: 0;
   z-index: 1;
   margin-top: -1px;
@@ -355,9 +355,9 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-8xs-5) 20.199999999999815px 1.1999999999999886px 0;
+  padding: var(--padding-8xs-5) 20.2px var(--padding-11xs-2) 0;
   box-sizing: border-box;
-  gap: 6.822436809539795px;
+  gap: var(--gap-6xs-8);
   max-width: 100%;
   flex-shrink: 0;
 }
@@ -373,7 +373,7 @@
 }
 .king-abdulaziz-hospital,
 .p5 {
-  margin-left: -13.37px;
+  margin-left: -13.4px;
 }
 .king-abdulaziz-hospital {
   width: 549px;
@@ -411,21 +411,23 @@
   overflow: hidden;
   align-items: flex-end;
   justify-content: center;
-  padding: 0 0 0 36.40000000000009px;
+  padding: 0 0 0 var(--padding-17xl-4);
   flex-shrink: 0;
   z-index: 1;
   margin-top: -1px;
 }
 .hospitalzahir,
 .moh {
-  width: 577.6px;
   align-items: flex-start;
   justify-content: flex-start;
+}
+.hospitalzahir {
+  width: 577.6px;
   padding: 0;
 }
 .moh {
   width: 614.3px;
-  padding: 1.1999999999999886px 0 2.900000000000034px;
+  padding: var(--padding-11xs-2) 0 2.9px 0;
   font-size: var(--font-size-2xl-1);
 }
 .organization4 {
@@ -490,8 +492,8 @@
   align-self: stretch;
   flex-direction: row;
   align-items: flex-start;
-  padding: 4.600000000000023px 0 1.3999999999999773px;
-  gap: 6.822436809539795px;
+  padding: var(--padding-8xs-6) 0 1.4px;
+  gap: var(--gap-6xs-8);
 }
 .atm-site-selection {
   width: 389px;
@@ -567,9 +569,9 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: 4.599999999999966px 108px 1.1000000000000227px 0;
+  padding: var(--padding-8xs-6) 108px 1.1px 0;
   box-sizing: border-box;
-  gap: 6.822436809539795px;
+  gap: var(--gap-6xs-8);
   max-width: 100%;
 }
 .p8,
@@ -584,7 +586,7 @@
 }
 .p9,
 .selecting-atm-location {
-  margin-left: -13.37px;
+  margin-left: -13.4px;
 }
 .selecting-atm-location {
   width: 549px;
@@ -619,7 +621,7 @@
   overflow: hidden;
   align-items: flex-end;
   justify-content: center;
-  padding: 0 0 0 36.40000000000009px;
+  padding: 0 0 0 var(--padding-17xl-4);
   flex-shrink: 0;
   z-index: 1;
   margin-top: -1px;
@@ -650,8 +652,8 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-  padding: var(--padding-8xs-5) 245px 4.600000000000023px 0;
-  gap: 6.822436809539795px;
+  padding: var(--padding-8xs-5) 245px var(--padding-8xs-6) 0;
+  gap: var(--gap-6xs-8);
 }
 .p10 {
   width: 49px;
@@ -695,7 +697,7 @@
 }
 .ncb {
   width: 615px;
-  padding: 1.3000000000000114px 29.299999999999955px 40.89999999999998px 0;
+  padding: 1.3px 29.3px 40.9px 0;
   box-sizing: border-box;
   font-size: var(--font-size-2xl-1);
 }
@@ -727,8 +729,8 @@
   width: 1191px;
   flex-direction: column;
   justify-content: center;
-  padding: 6.699999999999989px var(--padding-xl) 6.7000000000000455px;
-  gap: 10.23365592956543px;
+  padding: 6.7px var(--padding-xl);
+  gap: 10.2px;
   max-width: 100%;
   text-align: left;
   font-size: var(--font-size-14xl-8);
